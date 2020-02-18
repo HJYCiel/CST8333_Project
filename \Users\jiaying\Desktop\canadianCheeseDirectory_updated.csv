@@ -1,0 +1,201 @@
+CheeseId,CheeseNameEn,ManufacturerNameEn,ManufacturerProvCode,ManufacturingTypeEn,WebSiteEn,FatContentPercent,MoisturePercent,ParticularitiesEn,FlavourEn,CharacteristicsEn,RipeningEn,Organic,CategoryTypeEn,MilkTypeEn,MilkTreatmentTypeEn,RindTypeEn,LastUpdateDate
+228,,,NB,Farmstead,,24.2,47.0,,"Sharp, lactic",Uncooked,9 Months,0,Firm Cheese,Ewe,Raw Milk,Washed Rind,2016-02-03
+242,,,NB,Farmstead,,24.2,47.9,,"Sharp, lactic, lightly caramelized",Uncooked,,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,2016-02-03
+301,Provolone Sette Fette (Tre-Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,24.0,54.0,,"Mild, tangy, and fruity","Pressed and cooked cheese, pasta filata, interiror ripened",,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+303,,,NB,Farmstead,,29.0,47.0,,Sharp with fruity notes and a hint of wild honey,,3 Months,0,Veined Cheeses,Cow,Raw Milk,,2016-02-03
+319,,,NB,Farmstead,,24.6,49.4,,Softer taste,,2 Months,1,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,2016-02-03
+350,Paneer (Northumberland Co-operative),Northumberland Co-operative,NB,Industrial,http://www.northumberlanddairy.ca/e/0001e.cfm,25.0,48.0,"Traditional Indian Cheese, also available : Light Paneer",,Classic fresh cooking cheeses,Less than 1 Month,0,Fresh Cheese,Cow,Pasteurized,,2016-02-03
+374,Goat Brie (Woolwich),Woolwich Dairy,ON,Industrial,http://www.woolwichdairy.com,22.0,52.0,"Rennet free, ripens from the outside in","Rich, creamy, buttery, both subtle and tangy in taste",,Less than 1 Month,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,2016-02-03
+375,Goat Cheddar (Woolwich),Woolwich Dairy,ON,Industrial,http://www.woolwichdairy.com,29.0,41.0,"Medium Aged, rennet free",Mild,"Whitem, smooth, firm textured",4 Months,0,Firm Cheese,Goat,Pasteurized,,2016-02-03
+376,Goat Mozarella (Woolwich),Woolwich Dairy,ON,Industrial,http://www.woolwichdairy.com,22.0,50.0,Rennet free,Mild,,,0,Semi-soft Cheese,Goat,Pasteurized,,2016-02-03
+378,Goat Feta (Woolwich),Woolwich Dairy,ON,Industrial,http://www.woolwichdairy.com,22.0,55.0,Rennet free,"Sharp, tangy, salty",With or without brine,Less than 1 Month,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+379,,Woolwich Dairy,ON,Industrial,http://www.woolwichdairy.com,21.0,57.0,"Roasted Red Pepper, Cranberry with Port, Mediterranean, Lemon poppy seed",Rich and creamy,Fresh cheese,,0,Fresh Cheese,Goat,Pasteurized,,2016-02-03
+406,Leoni-Grana,Leoni-Grana,AB,Artisan,,,,,,Parmesan type,6 Months,0,Hard Cheese,Cow,Raw Milk,,2016-02-03
+414,Gouda (Jerseyland Organic),Jerseyland Organics,BC,Farmstead,http://www.jerseylandorganics.ca,33.0,34.0,"Available : Plain, Garlic and dill, Mixed herb, Caraway, Cumin, Onion & garlic, Hemp",,"Organic. Made with Jersey Milk as such very rich, creamy and pleasing colour",2 Months,1,Semi-soft Cheese,Cow,Raw Milk,,2016-02-03
+415,Cheddar (Jerseyland Organic),Jerseyland Organics,BC,Farmstead,http://www.jerseylandorganics.ca,33.0,34.0,"Available : Plain, onion and garlic, Jalapeno/Habenero, Leicester",,Organic. No dye/colour added.  Made from Jersey Milk,2 Months,1,Semi-soft Cheese,Cow,Raw Milk,,2016-02-03
+416,Grana (Jerseyland Organic),Jerseyland Organics,BC,Farmstead,http://www.jerseylandorganics.ca,33.0,33.0,,,Organic. Our grana's are Parmesan and Asiago; these are from our own Jersey milk. No colouring added,2 Months,1,Hard Cheese,Cow,Raw Milk,,2016-02-03
+417,Feta (Jerseyland Organic),Jerseyland Organics,BC,Farmstead,http://www.jerseylandorganics.ca,31.0,43.0,Available : Plain or Sundried tomato and oregano and onion,Creamy and rich tasting.  Creamy in colour due to the carotene in Jersey milk,Organic. Made with Jersey milk,2 Months,1,Soft Cheese,Cow,Raw Milk,,2016-02-03
+418,Udderly Organic Goat Gouda (Jerseyland Organic),Jerseyland Organics,BC,Farmstead,http://www.jerseylandorganics.ca,33.0,34.0,,"Available : Plain , garlic and dill, mixed herbs",Organic,2 Months,1,Semi-soft Cheese,Goat,Raw Milk,,2016-02-03
+419,Udderly Organic Goat Feta (Jerseyland Organic),Jerseyland Organics,BC,Farmstead,http://www.jerseylandorganics.ca,32.0,43.0,,"Available : Plain,  sundried tomato and herbs",Organic,2 Months,1,Soft Cheese,Goat,Raw Milk,,2016-02-03
+624,Madawaska,Back Forty Artisan Cheese,ON,Artisan,http://www.artisancheese.ca,,,,,"Slightly tangy center moving to a soft, sweet and slightly salty cream under the rind.",2 Months,0,Soft Cheese,Ewe,Raw Milk,Bloomy Rind,2016-02-03
+629,Cracked Pepper Verdelait,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,30.0,41.0,The Royal Agricultural Winter Fair 1st Place,"Spiked with a slightly warm, premium, cracked black pepper","Ripened, creamy cheese",,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+630,Cumin Verdelait,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,30.0,41.0,The Royal Agricultural Winter Fair 1st Place 2004,"Mild flavour of sweet butter and a delicate, smokey, exotic, lemony finish",,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+631,Garlic and Chive Verdelait,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,30.0,41.0,British Empire Cheese Show 2004 1st Place,Flavourful blend of garlic and chives,,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+632,Wasabi Verdelait,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,30.0,41.0,,"Ginger, garlic and local organic wasabi.",,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+648,Comox Camembert,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,28.0,48.0,2006 Canadian Grand Prix Finalist,Creamy with a note of mushroom,"Ripened,",,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+655,Provolone (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,24.0,45.0,"2006 Canadian Cheese Grand Prix Category Champion ""Pasta filata""",Mild to sharp with light smoky flavour Also available with Omega 3,Supple and smooth with a golden-yellow waxed rind,2 Months,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+656,Ricotta (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,10.0,80.0,2006 Canadian Cheese Grand Prix Finalist,Milky Also available with Omega 3,"Granular, creamy and soft in texture",Unripened,0,Fresh Cheese,Cow,Pasteurized,No Rind,2016-02-03
+657,Gouda (Sylvan Star Ltd.),Sylvan Star Cheese,AB,Farmstead,http://www.sylvanstarcheesefarm.ca,28.0,43.0,"2006, 2009, 2011 Canadian Cheese Grand Prix Category Champion","Basil, black pepper, black pepper and garlic, cumin, dill, fenugreek, friesian cloves, green peppercorn, greeen peppecorn with cayenne, italian herbs","Mild, medium, aged",15 Months,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+658,Niagara Gold,Upper Canada Cheese Company,ON,Farmstead,http://www.uppercanadacheese.com,32.0,39.0,2006 Canadian Cheese Grand Prix Finalist,"Mild and sweet, nutty and buttery flavour.",Made from Guernsey milk.,5 Months,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,2016-02-03
+659,Comfort Cream,Upper Canada Cheese Company,ON,Farmstead,http://www.uppercanadacheese.com,,,"Awarded second place (silver) at the 2009 American Cheese Society Judging and Competition in Austin, TX.","Earthy, tangy flavour",Similar to Camembert,Less than 1 Month,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,2016-02-03
+662,Cheddar (Balderson),Balderson Cheese (Parmalat),ON,Industrial,http://www.baldersoncheese.ca,31.0,39.0,,,,More than 5 Years,0,Firm Cheese,Cow,Pasteurized,No Rind,2017-01-18
+663,,,ON,Industrial,http://www.fromage-st-albert.com/eng/eng.htm,31.0,39.0,,"Five peppers, garlic, dill, chives, fine herbs and tomato, apple etc","Curds, mild, medium, old, extra old, extra old 5 years.",15 Months,0,Firm Cheese,Cow,Pasteurized,,2016-04-14
+664,Gouda (That Dutchman's Farm),That Dutchman's Farm,NS,Farmstead,http://www.denhoek.ca,26.67,42.0,2009 Canadian Cheese Grand Prix Category Winner,"Mild, medium, old, caraway, cumin, cumin and cloves, fines herbs, garlic, pepper mix, smoked.","Natural rind, shaped into wheels, smooth",,0,Firm Cheese,Cow,Thermised,,2016-02-03
+665,Dragon's Breath,That Dutchman's Farm,NS,Farmstead,http://www.denhoek.ca,26.67,42.0,,"Delicate, a bit spicy.",Blue cheese dipped in black wax,3 Months,0,Soft Cheese,Cow,Raw Milk,,2016-02-03
+667,Feta (Black Diamond),Black Diamond (Parmalat),ON,Industrial,http://www.blackdiamond.ca,22.0,55.0,2006 and 2009 Canadian Cheese Grand Prix Category Winner,Mild,,Less than 1 Month,0,Fresh Cheese,Cow,Pasteurized,No Rind,2016-02-03
+713,Dalhousie,Back Forty Artisan Cheese,ON,Artisan,http://www.artisancheese.ca,,,,"Hints of butter, nuts, and fruit",,,0,Semi-soft Cheese,Ewe,Raw Milk,Brushed Rind,2016-02-03
+714,Highland Blue,Back Forty Artisan Cheese,ON,Artisan,http://www.artisancheese.ca,,,,Butter and mushrooms,Unpressed blue mold cheese with natural rind,,0,Semi-soft Cheese,Ewe,Raw Milk,,2016-02-03
+715,Flower Station,Back Forty Artisan Cheese,ON,Artisan,http://www.artisancheese.ca,,,,,Feta Cheese,,0,Semi-soft Cheese,Ewe,Raw Milk,No Rind,2016-02-03
+716,,Back Forty Artisan Cheese,ON,Artisan,http://www.artisancheese.ca,,,,Tangy and fruity,Toasted rind,,0,Semi-soft Cheese,Ewe,Raw Milk,,2016-02-03
+717,Snow Road,Back Forty Artisan Cheese,ON,Artisan,http://www.artisancheese.ca,,,,Aromatic and intense flavour,Soft pale orange rind,,0,Soft Cheese,Ewe,Raw Milk,Washed Rind,2016-02-03
+718,French Line,Back Forty Artisan Cheese,ON,Artisan,http://www.artisancheese.ca,,,,"Butter, nuts and vanilla",,,0,Firm Cheese,Ewe,Raw Milk,Brushed Rind,2016-02-03
+721,,Ewenity Dairy Co-operative,ON,Artisan,http://www.ewenity.com,18.0,60.0,,Mild tangy taste,Creamy,,0,Fresh Cheese,Ewe,Pasteurized,No Rind,2016-02-03
+722,,Ewenity Dairy Co-operative,ON,Artisan,http://www.ewenity.com,37.0,42.0,,Mild,"Creamy, covered with a green wax",2 Months,0,Semi-soft Cheese,Ewe,Raw Milk,,2016-02-03
+723,Ramembert (Best Baa Dairy),Ewenity Dairy Co-operative,ON,Artisan,http://www.ewenity.com,25.0,55.0,,,"White rind, creamier than camembert",Less than 1 Month,0,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,2016-02-03
+724,Feta (Best Baa Dairy),Ewenity Dairy Co-operative,ON,Artisan,http://www.ewenity.com,25.0,,,Mild,Creamy,Less than 1 Month,0,Fresh Cheese,Ewe,Pasteurized,,2016-02-03
+728,Cheddar (Bright Brand),Bright Cheese and Butter Milk Manufacturing,ON,Industrial,,32.0,34.0,,"Mild, medium, extra-old, 4 and 5 year-old",White and orange,5 Years,0,Firm Cheese,Cow,Thermised,No Rind,2016-04-15
+730,Eweda (Best Baa Dairy),Ewenity Dairy Co-operative,ON,Artisan,http://www.ewenity.com,32.0,47.0,made with gouda recipe but with a very different taste,,,1 Month,0,Semi-soft Cheese,Ewe,Pasteurized,,2016-02-03
+731,,Ewenity Dairy Co-operative,ON,Artisan,http://www.ewenity.com,30.0,48.0,,,,2 Months,0,Semi-soft Cheese,Ewe,Raw Milk,,2016-02-03
+732,Brigitte (Best Baa Dairy),Ewenity Dairy Co-operative,ON,Artisan,http://www.ewenity.com,28.0,58.0,,,,2 Months,0,Semi-soft Cheese,Ewe,Raw Milk,,2016-02-03
+734,Banon,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,Cured in grape leaves,,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+735,Bianco Nero,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,Pyramid shape and covered with black vegetable ash,,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+736,Bliss,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,Camembert style,,0,Soft Cheese,Ewe and Goat,Pasteurized,Bloomy Rind,2016-02-03
+737,Goat Tomme,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,Tomme style,,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+738,Toscano,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,"Italian style, natural rind cheese",,0,Firm Cheese,Ewe,Pasteurized,,2016-02-03
+739,Ricotta (Montforte),Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,,,0,Fresh Cheese,Ewe,Pasteurized,No Rind,2016-02-03
+740,Piacere,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,"Covered with rosemary, chili pepper and jumper berries",,,0,Semi-soft Cheese,Ewe,Pasteurized,,2016-02-03
+741,Pecorino Fresco / Pepato Fresco,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,Pecorino style,,0,Fresh Cheese,Ewe,Pasteurized,,2016-02-03
+742,Paradiso,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,,,0,Semi-soft Cheese,Ewe,Pasteurized,Washed Rind,2016-02-03
+743,Nika,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,herbs and organic garlic flowers,,,0,Fresh Cheese,Ewe,Pasteurized,,2016-02-03
+744,Halloumi,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,Arabic style cheese,,0,Fresh Cheese,Ewe,Pasteurized,,2016-02-03
+745,Fresco,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,,,0,Fresh Cheese,Ewe,Pasteurized,,2016-02-03
+746,,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,,,,0,Fresh Cheese,Ewe,Pasteurized,,2016-02-03
+747,Baumans Smoked,Montforte Dairy Company,ON,Artisan,http://www.montfortedairy.com,,,,Maple smoked,Inspired by the traditional oszczek,,0,Firm Cheese,Ewe,Pasteurized,,2016-02-03
+748,Gouda (Thunder Oak),Thunder Oak Cheese Farm,ON,Farmstead,http://www.cheesefarm.ca,,,Dutch cheese award,"Cumin, Garlic, Pepper, fenugreek,",Creamy,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+749,Mozzarella (Amalgamated Dairies Ltd.),Amalgamated Dairies,PE,Industrial,http://www.adl.ca,,,,,,2 Months,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+750,Brick (Amalgamated Dairies Ltd),Amalgamated Dairies,PE,Industrial,http://www.adl.ca,,,,,,2 Months,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+751,Colby (Amalgamated Dairies Ltd.),Amalgamated Dairies,PE,Industrial,http://www.adl.ca,,,,,,2 Months,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+752,Cheddar (Amalgamated Dairies Limited),Amalgamated Dairies,PE,Industrial,http://www.adl.ca,,,1st place recipient at the Central Ontario Cheese Makers Association 81st annual convention and British Empire,"Mild, mild light, Med, old and extra old",,,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+753,Monterey Jack (Amalgamated Dairies),Amalgamated Dairies,PE,Industrial,http://www.adl.ca,,,,,White and Orange,2 Months,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+754,Farmers (Amalgamated Dairies Ltd),Amalgamated Dairies,PE,Industrial,http://www.adl.ca,,,,,,2 Months,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+756,Mozzarella (Farmers Cooporative Dairies),Farmers Cooperative Dairy,NS,Industrial,http://www.farmersdairy.ca,25.0,44.0,,,,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+757,Cheddar (Foxhill Cheese),Foxhill Cheese Cheesehouse,NS,Farmstead,http://www.foxhillcheesehouse.com,,,,"Blueberry, cranberry",,2 Years,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+758,Gouda (Foxhill Cheese),Foxhill Cheese Cheesehouse,NS,Farmstead,http://www.foxhillcheesehouse.com,,,,"Cumin, Herbs and Garlic, Smoked, Jalapeno","Old, Medium",,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+759,Havarti (Foxhill Cheese),Foxhill Cheese Cheesehouse,NS,Farmstead,http://www.foxhillcheesehouse.com,,,,"Fenugreek, Dill and Chives",Mild and Creamy,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+760,Quark (Foxhill Cheese),Foxhill Cheese Cheesehouse,NS,Farmstead,http://www.foxhillcheesehouse.com,,,,"Curry, Garlic, Lemon Dill, Italian Blend, Cranberry",,,0,Fresh Cheese,Cow,Pasteurized,No Rind,2016-02-03
+761,Feta (Foxhill Cheese),Foxhill Cheese Cheesehouse,NS,Farmstead,http://www.foxhillcheesehouse.com,,,,,,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+762,Parmesran (Foxhill Cheese),Foxhill Cheese Cheesehouse,NS,Farmstead,http://www.foxhillcheesehouse.com,,,,,,,0,Hard Cheese,Cow,Pasteurized,,2016-02-03
+763,Blue Velvet,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,Sharp,Creamy,,0,Veined Cheeses,Goat,Pasteurized,,2016-02-03
+764,Misty,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,Covered with ash,,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+765,Heavenly,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,,,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+766,Moonlight,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,Aged on grape leaf,,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+767,Picollo,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,Mushroom flavour,,,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+768,Chabichou,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,,,0,Firm Cheese,Goat,Pasteurized,,2016-02-03
+769,Chevry,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,"Plain, Dill and Onion, Provence Herbs",Creamy,,0,Fresh Cheese,Goat,Pasteurized,,2016-02-03
+770,Feta (Carmelis),Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,,,0,Soft Cheese,Goat,Pasteurized,No Rind,2016-02-03
+771,Carmel,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,Comparable to an aged Cheddar/Parmesan,1 Year,0,Hard Cheese,Goat,Pasteurized,,2016-02-03
+772,,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,Comparable to Asiago and Manchego,2 Years,0,Hard Cheese,Goat,Pasteurized,,2016-02-03
+773,Lior Special Edition,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,Riddled with whole peppercorn and surrounded by bay leaves,1 Year,0,Hard Cheese,Goat,Pasteurized,,2016-02-03
+774,Vintage,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,Soaked for five days in Pinot Noir wine,1 Year,0,Firm Cheese,Goat,Thermised,,2016-02-03
+775,Tuscany,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,Plain ou smoked,"Comparable to Swiss, Provolone and Mozzarella cheeses",9 Months,0,Firm Cheese,Goat,Pasteurized,,2016-02-03
+776,Goatgonzola,Carmelis Goat Cheese,BC,Artisan,http://www.carmelisgoatcheese.com,,,,,,,0,Veined Cheeses,Goat,Pasteurized,,2016-02-03
+777,Okanagan Double Cream Camembert,Poplar Grove Cheese,BC,Artisan,http://www.poplargrove.ca/cheese,33.0,48.0,,White truffles,Creamy,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+778,Tiger Blue,Poplar Grove Cheese,BC,Artisan,http://www.poplargrove.ca/cheese,28.0,47.0,,Intense Blue Flavour,,,0,Veined Cheeses,Cow,Pasteurized,,2016-02-03
+779,Naramata Bench Blue,Poplar Grove Cheese,BC,Artisan,http://www.poplargrove.ca/cheese,27.0,54.0,,Mild,Creamy,,0,Veined Cheeses,Cow,Pasteurized,,2016-02-03
+780,Harvest Moon,Poplar Grove Cheese,BC,Artisan,http://www.poplargrove.ca/cheese,25.0,54.0,,,,,0,Soft Cheese,Cow,Pasteurized,Washed Rind,2016-02-03
+781,Paneer (Punjab Milk Foods),Punjab Milk Foods,BC,Industrial,http://www.nanakfoods.com,,,,various flavours,,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+783,Cheddar (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,,,Also available in raw milk,"Mild, Medium, Aged, extra old",White or couloured,,0,Firm Cheese,Cow,Thermised,No Rind,2016-02-03
+784,Feta (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,,,,"Salty, with Spices",,,0,Soft Cheese,Goat,Thermised,,2016-02-03
+785,Chevre (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,,,,,,,0,Soft Cheese,Goat,Thermised,,2016-02-03
+786,Swiss (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,31.0,40.0,,,,,0,Firm Cheese,Goat,Thermised,No Rind,2016-02-03
+787,Havarti (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,34.0,41.0,,,,,0,Semi-soft Cheese,Goat,Thermised,,2016-02-03
+788,Edam (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,31.0,40.0,,,,,0,Firm Cheese,Goat,Thermised,,2016-02-03
+790,Parmesan (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,26.0,32.0,,,,,0,Hard Cheese,Cow,Thermised,,2016-02-03
+791,Monterey Jack (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,28.0,40.0,,,,,0,Firm Cheese,Goat,Thermised,,2016-02-03
+792,Swiss Alpine Meadow (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,31.0,40.0,,,,,0,Firm Cheese,Goat,Thermised,No Rind,2016-02-03
+794,Mozzarella (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,31.0,38.0,,,,,0,Semi-soft Cheese,Goat,Thermised,,2016-02-03
+795,Gouda (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,28.0,40.0,,,,,0,Firm Cheese,Goat,Thermised,,2016-02-03
+796,Brick (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,34.0,41.0,,,,,0,Firm Cheese,Goat,Thermised,,2016-02-03
+799,Quark (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,,,,,,,0,Fresh Cheese,Goat,Thermised,,2016-02-03
+800,Chevre (Village Cheese),Village Cheese Company,BC,Artisan,http://www.villagecheese.com,,,,Plain,,,0,Fresh Cheese,Goat,Thermised,,2016-02-03
+802,Mozzarella (D. Dutchmen Dairy),D. Dutchmen Dairy,BC,Artisan,http://www.dutchmendairy.ca,,,,,Partly Skimmed,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+803,Cheddar (D. Dutchmen Dairy),D. Dutchmen Dairy,BC,Artisan,http://www.dutchmendairy.ca,,,,"Mild, Medium, Aged, spiced",,,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+804,Asiago (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,30.0,39.0,,"Delicate, sweet and nutty flavour",,1 Year,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+806,,Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,28.0,50.0,Awarded 1st place in the category of brie and Camembert in the 2000 World Cheese Championship and a finalist in 2000 Canadian Grand Prix.,Buttery taste.,,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,2016-02-03
+807,Cheddar (Bothwell),Bothwell Cheese,MB,Farmstead,http://www.bothwellcheese.com,32.0,37.0,"Fresh, mild, marble, light, medium, old, red wine aged, white, smoked, horseradish  and unsalted cheddars.",,,2 Years,1,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+808,Swiss (Bothwell),Bothwell Cheese,MB,Farmstead,http://www.bothwellcheese.com,27.0,40.0,Lactose free,Sweet and slightly nutty taste,Buttery texture,,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+809,Gouda (Bothwell),Bothwell Cheese,MB,Farmstead,http://www.bothwellcheese.com,28.0,42.0,,"Salty and sweet with a mild, nutty taste",Also manufactures a Smoked Gouda,3 Months,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+810,Monterey Jack (Bothwell),Bothwell Cheese,MB,Farmstead,http://www.bothwellcheese.com,29.0,42.0,,"Mild, sweet and slightly nutty taste","Also available the ""Jalapeno Pepper Jack""",,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+812,Cheddars (Central Dairies),Central Dairies,NL,Industrial,http://www.centraldairies.com,31.0,39.0,,,"Old, Medium, Mild, Marble and Old White Cheddars",9 Months,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+813,,Little Qualicum Cheeseworks,BC,Artisan,http://www.cheeseworks.ca,16.0,68.0,,,,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+814,Caerphilly,Little Qualicum Cheeseworks,BC,Artisan,http://www.cheeseworks.ca,30.0,,,,Welsh-style cheese,1 Year,0,Hard Cheese,Cow,Raw Milk,,2016-02-03
+815,Monterey Jill,Little Qualicum Cheeseworks,BC,Artisan,http://www.cheeseworks.ca,30.0,40.0,,Mild tasting,Artisan Cheese,30 days,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+816,Qualicum Spice,Little Qualicum Cheeseworks,BC,Artisan,http://www.cheeseworks.ca,30.0,38.0,Made from raw milk,"Onions, garlic, papika and sweet red pepper flakes.",Artisinal cheese,90 days,0,Hard Cheese,Cow,Raw Milk,,2016-02-03
+817,Little Qualicum Feta,Little Qualicum Cheeseworks,BC,Artisan,http://www.cheeseworks.ca,29.0,44.0,,"Plain or marinated in oil, garlic, sun-dried tomatoes and rosemary",,,0,Soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+818,Raclette (Little Qualicum),Little Qualicum Cheeseworks,BC,Artisan,http://www.cheeseworks.ca,30.0,38.0,Made with raw milk,,Artisanal cheese,4 months,0,Hard Cheese,Cow,Raw Milk,,2016-02-03
+819,Rathtrevor,Little Qualicum Cheeseworks,BC,Artisan,http://www.cheeseworks.ca,30.0,36.0,Made of raw milk,Hints of roasted nuts,Artisan Swiss-style Cheese,6 months,0,Firm Cheese,Cow,Raw Milk,,2016-02-03
+820,Comox Brie,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,28.0,47.0,,Gentle flavour with a creamy buttery taste,,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,2016-02-03
+821,Triple Cream Camembert,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,35.0,48.0,,Delicate note of mushroom,,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,2016-02-03
+822,Amsterdammer,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,30.0,41.0,,Sweet buttery flavour with a mellow taste of herbs.  Nutty overtones with a tangy finish.,,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+823,Boerenkaas,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,31.0,43.0,Winner at the 2011 Canadian Cheese Grand Prix,,,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+824,La Scala,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,35.0,39.0,,Bold fruity rich-tasting cheese.,Blend of Irish Derby and Italian-style Asiago.,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+825,Pacific Pepper Verderlait,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,30.0,41.0,,A mix of habanero and black pepper.,,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+826,Winterlude Spice Verderlait,Natural Pastures Cheese Company,BC,Artisan,http://www.naturalpastures.com,30.0,41.0,,Spicy with cloves and cumin.,Creamy,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+827,Island Bries,Little Qualicum Cheeseworks,BC,Artisan,http://www.cheeseworks.ca,16.0,68.0,Winner at the 2011 Canadian Cheese Grand Prix,Mushroom overtones,Velvety white rind,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,2016-02-03
+828,Mascarpone (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,75.0,,,"Soft, delicate and mild buttery flavour.",Smooth ultra-creamy texture,,0,Fresh Cheese,Cow,Pasteurized,,2016-02-03
+829,Romano (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,,,,"Moderate to very strong, rich, tangy and somewhat salty.","Made of sheep, cow or goat milk",,0,Hard Cheese,Cow and Goat,Pasteurized,,2016-02-03
+831,Feta (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,,,,"Sharp, tangy, salty flavour.","Made with cow's, goat's and/or sheep's milk.",,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+833,,,ON,Industrial,http://www.fromage-st-albert.com/eng/eng.htm,4.0,55.0,,,Low in fat,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-04-14
+834,Asiago (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,,,,"Very mild, delicate, sweet, undemanding flavour when young.  As it ages it has a full, sharp, and tangy taste with a detectible saltiness.",Natural rind that is smooth and glossy.,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+835,Caciocavallo (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,,,,Mellow,"Dry, sleek, yellow rind.  Interior is golden-yellow and has a fibrous close texture.",,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+836,Crotonese (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,,,,"Rich, distinct flavour that is sharp and tanqy.",Granular texture.,,0,Firm Cheese,Ewe and Goat,Pasteurized,,2016-02-03
+837,Friulano (Silani),Silani Sweet Cheese,ON,Industrial,http://www.silani.ca,,,,"Mild, delicate, milky flavour that becomes more salty, tangy and nutty with age.",Rindless cheese.,,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+848,Bocconcini (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,25.0,48.0,,Refreshing,"Mild, refreshing, with a smooth  texture.",Unripened,0,Fresh Cheese,Cow,Pasteurized,No Rind,2016-02-03
+849,Borgonzola (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,40.0,40.0,Finalist in the Blue Cheese category for the 2000 and 2002 Canadian Cheese Grand Prix,Mild flavor of brie,Smooth,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+850,Brick (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,29.0,42.0,,"Milder, milky and sweet acidulous edge",,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+859,Feta (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,24.0,55.0,"Available in Feta-Regular, Crumbled, Light, with Basil and Tomatoes, with Olives and Oregano",Salty and tangy,,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+865,Havarti (Dofino),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,35.0,46.0,"Available Havarti - light, plain, herb and spice, sundried tomatoes in caraway, dill, jalapeno and in  slices",Buttery with a lightly acidulous taste,Smooth texture,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+867,Mascarpone (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,34.0,54.0,Winner at the 2011 Canadian Cheese Grand Prix,,"Triple cream, rich, smooth texture",,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+869,Mozzarella (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,16.0,48.0,,,"Available in Mozzarella - 20% milk fat, 25% milk fat, 16% milk fat, sliced",,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+871,Parmesan (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,32.0,22.0,,"Rich, fruity and nutty taste.",,,0,Hard Cheese,Cow,Pasteurized,No Rind,2016-02-03
+874,Brie (Mountain Meadows),Mountain Meadow Sheep Dairy,BC,Farmstead,http://www.sheepcheesecanada.com,,,,Mild,Creamy brie,2 Months,1,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,2016-02-03
+875,Aged Sheep Milk Cheese,Mountain Meadow Sheep Dairy,BC,Farmstead,http://www.sheepcheesecanada.com,15.0,,Grates and melts well,,,,1,Firm Cheese,Ewe,Pasteurized,,2016-02-03
+876,Mountain Meadow Sheep Droppings,Mountain Meadow Sheep Dairy,BC,Farmstead,http://www.sheepcheesecanada.com,,,Feta cheese,Mild,Creamy,Unripened,0,Soft Cheese,Ewe,Pasteurized,,2016-02-03
+879,Extra Aged Gouda (Gort's Gouda),Gort's Gouda Cheese Farm,BC,Farmstead,http://www.gortsgoudacheese.bc.ca,33.0,38.0,First place at the Canadian Cheese Grand Prix in 2004,Rich with a sweet caramel finish,"Also available: mild, medium, light and in many flavours.",2 Years,1,Firm Cheese,Cow,Thermised,No Rind,2016-02-03
+885,Maasdammer,Gort's Gouda Cheese Farm,BC,Farmstead,http://www.gortsgoudacheese.bc.ca,32.0,38.0,,Nutty flavour,,,1,Firm Cheese,Cow,Raw Milk,,2016-02-03
+888,Kraft LiveActive,Kraft Canada,ON,Industrial,http://www.kraftcanada.com/en/home.aspx,11.0,,,medium and marble,Contains probiotics,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+889,Creamy Feta (Triple A Cheese),Triple A Cheese Company,ON,Artisan,http://www.tripleacheese.com,22.0,56.0,,"Balkan, middle eastern flavoured cheese","Rich Flavour, similar to ""kaymak"" or ""Lebene"", Balkan, middle eastern flavoured cheese",,0,Fresh Cheese,Cow,Pasteurized,,2016-02-03
+890,Vlahos Feta,Tiras Dairies,AB,Industrial,,22.0,55.0,Also available:  Tiras Goat Feta Cheese,Slightly salty,Cured in brine,1 Year,0,Semi-soft Cheese,Cow and Goat,Pasteurized,,2016-02-03
+891,Kefalotri / Saganaki,Tiras Dairies,AB,Industrial,,38.0,26.0,Can be refrigerated up to 1 year,,,,0,Firm Cheese,Ewe and Cow,Pasteurized,,2016-02-03
+893,Shredded Parmesan with Romano Cheese,Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,25.0,20.0,,Mild to strong nutty and salty flavour,50-50 Blend of shredded parmesan and romano cheeses,3 Months,0,Hard Cheese,Cow,Pasteurized,No Rind,2016-02-03
+895,Trecce (Salerno),Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,,,Also available: Mini Trecce,,Similar to Bocconcini cheese,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+896,Traditional Ricotta Cheese (Salerno),Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,,75.0,Also avaiable:  Low fat ricotta,Rich and creamy,Made of whey and milk.,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+902,Burrino (Salerno),Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,20.0,92.0,,,,,0,Fresh Cheese,Cow,Pasteurized,,2016-02-03
+904,Fior Di Latte,Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,,,,,,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+906,Scamorza (Salerno),Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,20.0,52.0,,Similiar to Provolone,Gourd-shaped similar to Caciocavallo,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+910,Casata Friulano (Salerno),Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,,,,Mild to a sharp creamy taste,Wheel-shaped cheese with a fine thin rind that is off-white to yellow in colour an ivory interior.,,0,Hard Cheese,Cow,Pasteurized,,2016-02-03
+913,Pepato & Peperonato,Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,,,,With peppercorns or hot peppers,Same as Romanello,,0,Hard Cheese,Cow,Pasteurized,,2016-02-03
+915,Provolone (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,24.0,45.0,Also available in: light and smoked flavours,mildly tangy and fruity,,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+916,Ricotta (Tre Stelle),Tre Stelle (Arla Foods),ON,Industrial,http://www.trestelle.ca/english/,10.0,74.0,,"Milky, smooth and creamy",,,0,Fresh Cheese,Cow,Pasteurized,No Rind,2016-02-03
+922,Okanagan Goat Cheese,Happy Days Dairies,BC,Farmstead,http://www.happydaysdairy.com,22.0,60.0,,"Plain, with garlic/parsley, lemon/pepper or with chanterelle or porcini. Very mild taste.",Very creamy texture,Unripened,0,Soft Cheese,Goat,Pasteurized,,2016-02-03
+923,Feta (Gort's Gouda),Gort's Gouda Cheese Farm,BC,Farmstead,http://www.gortsgoudacheese.bc.ca,22.0,55.0,,"Available with basil and tomato, garlic and oregano",,,1,Fresh Cheese,Cow,Thermised,,2016-02-03
+928,Cheddar (Thornloe),Thornloe Cheese (Gencor Foods),ON,Industrial,http://www.thornloecheese.ca,39.0,31.0,,Very sharp,"Extra firm, white cheese",2 Years,0,Hard Cheese,Cow,Pasteurized,No Rind,2016-02-03
+929,Mozzarella (International Cheese),International Cheese Company,ON,Industrial,http://www.internationalcheese.ca/index.php,18.0,52.0,,,"Also available: ""Fior de Latte"", ""Fior de Latte Treccia"", in block or ball shape.",,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+930,Santa Lucia Provolone (International Cheese),International Cheese Company,ON,Industrial,http://www.internationalcheese.ca/index.php,24.0,45.0,,Also available: Pignata,,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+931,Ricotta (International Cheese),International Cheese Company,ON,Industrial,http://www.internationalcheese.ca/index.php,24.0,62.0,,,,,0,Fresh Cheese,Cow,Pasteurized,No Rind,2016-02-03
+932,Scamorza (International Cheese),International Cheese Company,ON,Industrial,http://www.internationalcheese.ca/index.php,24.0,45.0,,,,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+933,St.John's Cow (Portuguese),Portuguese Cheese Company,ON,Industrial,http://www.portuguesecheese.com,25.0,52.0,"3rd place, American Cheese Society, San Francisco, California, 2003",,"A smooth, luxurious texture reminiscent of baked custard, rennet free",Unripened,0,Fresh Cheese,Cow,Pasteurized,,2016-02-03
+934,St. John's Goat (Portuguese),Portuguese Cheese Company,ON,Industrial,http://www.portuguesecheese.com,10.0,70.0,,,"A soft, yogurt-like texture, delicate curd and sweet milk flavour",Unripened,0,Fresh Cheese,Goat,Pasteurized,,2016-02-03
+935,Queso Fresco Fresh Spanish Cheese (Portuguese),Portuguese Cheese Company,ON,Industrial,http://www.portuguesecheese.com,,25.0,,Delicate and slighlty spongy,,Unripened,0,Fresh Cheese,Cow,Pasteurized,,2016-02-03
+936,Corvo Semi-Soft Cheese (Portuguese),Portuguese Cheese Company,ON,Industrial,http://www.portuguesecheese.com,30.0,40.0,,Sharp flavour,Dry and smooth texture.,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+937,Sao Miguel,Portuguese Cheese Company,ON,Industrial,http://www.portuguesecheese.com,20.0,40.0,,hint of sourness,Creamy texture,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+938,Graciosa Semi-Soft Goat Cheese (Portuguese),Portuguese Cheese Company,ON,Industrial,http://www.portuguesecheese.com,30.0,40.0,,almost sweet,,,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,2016-02-03
+939,Serra  (Portuguese Cheese Company),Portuguese Cheese Company,ON,Industrial,http://www.portuguesecheese.com,25.0,50.0,,Mild with slightly salty taste,,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+940,Vaquinha  (Portuguese),Portuguese Cheese Company,ON,Industrial,http://www.portuguesecheese.com,25.0,52.0,,Tangy,Golden yellow,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+941,Bocconcini (Quality Cheese),Quality Cheese,ON,Industrial,http://www.qualitycheese.com,,,,full creamy flavour,Is a white and rindless unripened cheese.,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+946,Swiss (Thornloe),Thornloe Cheese (Gencor Foods),ON,Industrial,http://www.thornloecheese.ca,40.0,27.0,,"Mild, bittersweet taste","Soft, white cheese",,0,Soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+947,Colby (Thornloe),Thornloe Cheese (Gencor Foods),ON,Industrial,http://www.thornloecheese.ca,31.0,41.0,,Light and milk with a fresh butter taste,"Rindless, smooth and gleaming surface yellow in color",,0,Firm Cheese,Cow,Pasteurized,No Rind,2016-02-03
+951,Mini Bocconcini (International Cheese),International Cheese Company,ON,Industrial,http://www.internationalcheese.ca/index.php,20.0,52.0,,,Also available:  Bocconcini Pearl et regular Bocconcini,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+952,Burrini (International Cheese),International Cheese Company,ON,Industrial,http://www.internationalcheese.ca/index.php,,,,,,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+953,Cacciocavallo (International Cheese),International Cheese Company,ON,Industrial,http://www.internationalcheese.ca/index.php,24.0,45.0,,,,,1,Firm Cheese,Cow,Pasteurized,,2016-02-03
+954,Friulano (International Cheese),International Cheese Company,ON,Industrial,http://www.internationalcheese.ca/index.php,24.0,39.0,,,,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+955,Borgonzola (Quality Cheese),Quality Cheese,ON,Industrial,http://www.qualitycheese.com,,,,,Soft velvety creamy texture that is randomly interrupted by veins of blue mold.,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+956,Brie (Quality Cheese),Quality Cheese,ON,Industrial,http://www.qualitycheese.com,,,,"Herb and garlic, peppercorn",,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,2016-02-03
+957,Cheddar Smoked (Quality),Quality Cheese,ON,Industrial,http://www.qualitycheese.com,,,,Smoked,,,0,Hard Cheese,Cow,Pasteurized,No Rind,2016-02-03
+958,Friulano (Quality Cheese),Quality Cheese,ON,Industrial,http://www.qualitycheese.com,,,,"Mild, sweet flavor with a hint of salt.",Friulano has a smooth golden surface with a pale golden interior.,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+959,Mozzarella 20% (Quality Cheese),Quality Cheese,ON,Industrial,http://www.qualitycheese.com,,,Also manufactures Buffalo Mozzarella and Buffalo Mozzarella made from 50% buffalo's milk and 50% cow's milk.,Smoked,Plain or Shredded,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+960,Provolone (Quality Cheese),Quality Cheese,ON,Industrial,http://www.qualitycheese.com,,,,"Plain, Smoked",,,0,Firm Cheese,Cow,Pasteurized,,2016-02-03
+961,Ricotta (Quality Cheese),Quality Cheese,ON,Industrial,http://www.qualitycheese.com,,,,Semi-sweet to mild,,,0,Soft Cheese,Cow,Pasteurized,No Rind,2016-02-03
+962,Bocconcini (Salerno),Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,19.0,57.0,,,,Unripened,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
+966,Tuma Cheese (Fresh Cheese)(Salerno),Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,20.0,62.0,,,,,0,Soft Cheese,Cow,Pasteurized,,2016-02-03
+967,Mozzarella (Salerno),Salerno Dairy Products,ON,Industrial,http://www.salernodairy.com,20.0,,"Available:  Special Deluxe Mozzarella, Deluxe Mozzarella, and Part Skim Mozzarella",,,,0,Semi-soft Cheese,Cow,Pasteurized,,2016-02-03
